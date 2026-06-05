@@ -1,0 +1,26 @@
+{
+  "name": "liverpool-automation-framework",
+  "version": "1.0.0",
+  "description": "Playwright automation framework for Liverpool.com.mx",
+  "scripts": {
+    "test": "HEADED=true playwright test",
+    "test:headless": "HEADED=false playwright test",
+    "test:headed": "HEADED=true playwright test --headed",
+    "test:debug": "HEADED=true playwright test --debug",
+    "test:report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.9.1",
+    "typescript": "^5.9.3"
+  },
+  "keywords": [
+    "automation",
+    "playwright",
+    "typescript",
+    "testing"
+  ],
+  "author": "Automation Engineer",
+  "license": "ISC"
+}

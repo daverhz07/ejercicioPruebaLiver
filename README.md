@@ -224,42 +224,6 @@ Para ver los resultados de las pruebas más recientes:
 
 ---
 
-## 📚 Documentación
-
-### Para Empezar
-- **[INICIO_RAPIDO.md](INICIO_RAPIDO.md)** ⭐ - Checklist por rol (5 minutos)
-- **[GUIA_RAPIDA.md](GUIA_RAPIDA.md)** - Guía para QA Junior (30 minutos)
-
-### Para Entender
-- **[ARQUITECTURA.md](ARQUITECTURA.md)** - Estructura completa y SOLID principles
-- **[BUENAS_PRACTICAS.md](BUENAS_PRACTICAS.md)** - 12 prácticas implementadas
-
-### Para Extender
-- **[EJEMPLOS_NUEVAS_PRUEBAS.md](EJEMPLOS_NUEVAS_PRUEBAS.md)** - 6+ ejemplos prácticos
-- **[REFERENCIA_RAPIDA.md](REFERENCIA_RAPIDA.md)** - Métodos y comandos rápidos
-
-### Resúmenes
-- **[ANTES_Y_DESPUES.md](ANTES_Y_DESPUES.md)** - Transformación del refactoring
-- **[INDICE_DOCUMENTACION.md](INDICE_DOCUMENTACION.md)** - Índice completo de documentos
-
----
-
-## 🎯 Mejoras Recientes (Refactoring)
-
-Este proyecto fue completamente refactorizado para aplicar **Page Object Model**:
-
-| Métrica | Antes | Después | Mejora |
-|---------|-------|---------|--------|
-| Líneas de test | 450+ | ~100 | **78% ↓** |
-| Funciones helper | 10+ | 0 | **100% ↓** |
-| Mantenibilidad | ⭐⭐ | ⭐⭐⭐⭐⭐ | **+300%** |
-| Escalabilidad | ❌ | ✅ | **∞** |
-| Type Safety | Parcial | 100% | **+100%** |
-
-✨ **Resultado:** Código profesional, limpio y listo para producción
-
----
-
 ## ✨ Características Implementadas
 
 ✅ **Búsqueda y Filtrado**
@@ -301,21 +265,6 @@ Este proyecto fue completamente refactorizado para aplicar **Page Object Model**
 5. Abre un Pull Request
 
 **Guía de contribución:** Ver [ARQUITECTURA.md](ARQUITECTURA.md)
-
----
-
-## 📞 Soporte
-
-**¿Preguntas?** Consulta la documentación:
-- Empezar: [INICIO_RAPIDO.md](INICIO_RAPIDO.md)
-- Código: [src/pages/LiverpoolPage.ts](src/pages/LiverpoolPage.ts)
-- Ejemplos: [EJEMPLOS_NUEVAS_PRUEBAS.md](EJEMPLOS_NUEVAS_PRUEBAS.md)
-
----
-
-## 📄 Licencia
-
-ISC
 
 ---
 
@@ -363,4 +312,4 @@ expect: { timeout: 5000 }    // Timeout para expect()
 
 ## Autor
 
-Automation Engineer - Mid/Semi-Senior Level
+Automation Engineer - David Rueda

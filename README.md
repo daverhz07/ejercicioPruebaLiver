@@ -13,8 +13,7 @@ Framework profesional de automatización con **Playwright + TypeScript** para va
 
 ✅ **Page Object Model** - Arquitectura escalable y mantenible  
 ✅ **Type-Safe** - 100% TypeScript  
-✅ **Modular** - Código separado por responsabilidades  
-✅ **Documentado** - 11 documentos de referencia  
+✅ **Modular** - Código separado por responsabilidades   
 ✅ **Production Ready** - Listo para producción  
 ✅ **CI/CD Integrado** - GitHub Actions configurado  
 
